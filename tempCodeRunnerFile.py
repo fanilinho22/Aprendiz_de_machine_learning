@@ -1,0 +1,1 @@
+dados = pd.read_csv(r"C:\\Users\\User\\Documents\\BDmachine\\athlete_events.csv")
